@@ -12,8 +12,6 @@ balaganagent demo --chaos-level 0.5  # Run your first experiment in 60 seconds
 ---
 
 ## Table of Contents
-
-- [Why BalaganAgent?](#why-balaganagent)
 - [Features](#features)
 - [Quick Start](#quick-start)
 - [Use Cases](#use-cases)
@@ -22,10 +20,6 @@ balaganagent demo --chaos-level 0.5  # Run your first experiment in 60 seconds
 - [Metrics](#metrics)
 - [Reports](#reports)
 - [Project Structure](#project-structure)
-- [Community](#community)
-- [Contributing](#contributing)
-- [Roadmap](#roadmap)
-- [License](#license)
 
 ## Why BalaganAgent?
 
