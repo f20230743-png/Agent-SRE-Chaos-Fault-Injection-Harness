@@ -1,13 +1,4 @@
 
-**Chaos Engineering for AI Agents**
-
-Everyone demos agents. Nobody stress-tests them.
-
-[Quick Start](#quick-start) •
-[Features](#features) •
-[Docs](https://arielshad.github.io/balagan-agent/) •
-[Examples](#examples) •
-[Contributing](#contributing)
 
 </div>
 
