@@ -453,6 +453,3 @@ Check out real-world examples:
 - [Stress Testing](tests/test_crewai_sdk_stress.py) - Finding breaking points
 - [BDD Scenarios](tests/bdd/) - Behavior-driven chaos scenarios
 
-had/balagan-agent) • [📦 PyPI Package](https://pypi.org/project/balagan-agent/) • [🐛 Report Bug](https://github.com/arielshad/balagan-agent/issues) • [💡 Request Feature](https://github.com/arielshad/balagan-agent/discussions)
-
-</div>
