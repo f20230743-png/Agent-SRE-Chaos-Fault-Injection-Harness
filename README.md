@@ -1,14 +1,3 @@
-# BalaganAgent
-
-<div align="center">
-
-[![PyPI version](https://img.shields.io/pypi/v/balagan-agent.svg)](https://pypi.org/project/balagan-agent/)
-[![Python versions](https://img.shields.io/pypi/pyversions/balagan-agent.svg)](https://pypi.org/project/balagan-agent/)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-[![Tests](https://github.com/arielshad/balagan-agent/workflows/Tests/badge.svg)](https://github.com/arielshad/balagan-agent/actions)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Downloads](https://img.shields.io/pypi/dm/balagan-agent.svg)](https://pypi.org/project/balagan-agent/)
-[![GitHub stars](https://img.shields.io/github/stars/arielshad/balagan-agent.svg?style=social)](https://github.com/arielshad/balagan-agent)
 
 **Chaos Engineering for AI Agents**
 
